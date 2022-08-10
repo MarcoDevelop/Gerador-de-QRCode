@@ -148,6 +148,6 @@ footer {
   
 footer a {
     font-weight: 700;
-    color: var(--text-color-alt);
+    color: #0d6efd;
     letter-spacing: .5px;
 }
